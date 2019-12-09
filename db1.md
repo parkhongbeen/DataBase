@@ -20,7 +20,7 @@ MySQL의 특징
 
 - 작고 강력하며 가격이 저렴
 
-  ![](/Users/hongbeen/Library/Application Support/typora-user-images/image-20191209202207843.png)
+  ![](https://user-images.githubusercontent.com/53684676/70436353-6d711700-1acc-11ea-9644-a5c779a9c474.png)
 
   
 
@@ -147,13 +147,13 @@ https://dev.mysql.com/downloads/workbench/
 
 **Workbench를 이용한 접속**
 
-![image-20191209204048982](/Users/hongbeen/Library/Application Support/typora-user-images/image-20191209204048982.png)
+![image-20191209204048982](https://user-images.githubusercontent.com/53684676/70436356-6f3ada80-1acc-11ea-9f33-6e2fff69e574.png)
 
 
 
 Test Connection
 
-![image-20191209204155985](/Users/hongbeen/Library/Application Support/typora-user-images/image-20191209204155985.png)
+![image-20191209204155985](https://user-images.githubusercontent.com/53684676/70436358-719d3480-1acc-11ea-84d1-7695b781b958.png)
 
 
 
@@ -163,15 +163,15 @@ Test Connection
 
 **개념적 모델링**: 업무분석해서 핵심 데이터의 집합을 정의하는 과정
 
-![image-20191209204308288](/Users/hongbeen/Library/Application Support/typora-user-images/image-20191209204308288.png)
+![image-20191209204308288](https://user-images.githubusercontent.com/53684676/70436362-75c95200-1acc-11ea-8532-06d527708194.png)
 
 **논리적 모델링**: 개념적 모델링을 상세화하는 과정
 
-![image-20191209204358386](/Users/hongbeen/Library/Application Support/typora-user-images/image-20191209204358386.png)
+![image-20191209204358386](https://user-images.githubusercontent.com/53684676/70436363-782bac00-1acc-11ea-99de-b28e544872e7.png)
 
 **물리적 모델링**: 논리적 모델링을 DBMS에 추가하기 위해 구체화되는 과정
 
-![image-20191209204541070](/Users/hongbeen/Library/Application Support/typora-user-images/image-20191209204541070.png)
+![image-20191209204541070](https://user-images.githubusercontent.com/53684676/70436379-7e218d00-1acc-11ea-986c-6d8f48f48c3e.png)
 
 **관계선의 의미**
 
@@ -179,7 +179,7 @@ Test Connection
 
 실선: 비식별관계 / 부모가 없어도 자식이 생성됨
 
-![image-20191209204643551](/Users/hongbeen/Library/Application Support/typora-user-images/image-20191209204643551.png)
+![image-20191209204643551](https://user-images.githubusercontent.com/53684676/70436385-811c7d80-1acc-11ea-9ad9-9dae47d73da3.png)
 
 ## SQL문의 종류: DML DDL DCL
 
