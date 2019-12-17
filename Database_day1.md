@@ -1,5 +1,7 @@
 # Data Base_Date_1
 
+-----
+
 DB (Database): 데이터를 통합하여 관리하는 데이터의 집합
 
 DBMS (Database Management System): 데이터 베이스를 관리하는 미들웨어 시스템,데이터 베이스
@@ -29,6 +31,8 @@ MySQL의 특징
   
 
   ## Mysql설치 및 설정
+  
+  ----
 
 ```
 AWS EC2 인스턴스에 Ubuntu OS에 MySQL 5.7.x 버전 설치
@@ -109,11 +113,9 @@ $ sudo systemctl restart mysql.service
 mysql> ALTER USER 'root@'localhost' IDENTIFIED BY 'wps';
 ```
 
-
-
-
-
 ## 샘플 데이터 추가
+
+----
 
 ```
 아래 링크에서  world와 sakila데이터 베이스 다운로드
